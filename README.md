@@ -1,2 +1,3 @@
-# jogo-da-velha
-Criação de Jogo da Velha com tecnologias HTML5 , CSS3 e JavaScript.
+# jogo-da-velha-css
+
+Criação de Jogo da velha com tecnologias HTML5 E CSS3.
